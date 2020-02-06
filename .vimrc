@@ -1249,3 +1249,5 @@
         endif
     endif
 " }
+"
+set colorcolumn=79
